@@ -1,8 +1,8 @@
 # vim
 myvimrepo(old vim setting)
 
-##相關設定說明
--------------------
+相關設定說明
+
 + $\vim\vimrc	<		Your personal vimrc.
 + $\vim\viminfo	<		Dynamic info for 'viminfo'.  記錄你編輯過的檔案
 + $\vim\vimfiles\ftplugin\*.vim <	Filetype plugins   你要加入的套件
